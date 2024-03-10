@@ -36,6 +36,10 @@ Order of relative importance. | 按照相对重要性排序。
 
 ## 中文社区
 
+- **Awesome-AISourceHub**  
+    优质信息源汇集，但内容仍包含良莠不齐。  
+    [GitHub](https://github.com/AmbroseX/Awesome-AISourceHub)
+
 - **硅星人Pro**  
     相对优质的深度长文，在AI宣发潮中的清流。  
     [微信公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyNjU2ODM2NQ==&scene=124#wechat_redirect)
