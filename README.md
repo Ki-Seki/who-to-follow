@@ -37,7 +37,7 @@ Order of relative importance. | 按照相对重要性排序。
 ## 中文社区
 
 - **Awesome-AISourceHub**  
-    优质信息源汇集，但内容仍包含良莠不齐。  
+    优质信息源汇集，但内容仍良莠不齐。  
     [GitHub](https://github.com/AmbroseX/Awesome-AISourceHub)
 
 - **硅星人Pro**  
