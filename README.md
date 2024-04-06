@@ -36,6 +36,11 @@ Order of relative importance. | 按照相对重要性排序。
 
 ## 中文社区
 
+- **苏剑林**  
+    理想派/技术达人/科学家/RoPE作者。他的博客不可错过。浮躁的时代我们需要这样的学者。  
+    [博客](https://kexue.fm/)  /
+    [GitHub](https://github.com/bojone)
+
 - **Awesome-AISourceHub**  
     优质信息源汇集，但内容仍良莠不齐。  
     [GitHub](https://github.com/AmbroseX/Awesome-AISourceHub)
